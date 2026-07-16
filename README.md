@@ -1,9 +1,38 @@
-TAMPILAN HOME
-<img width="2878" height="1618" alt="image" src="https://github.com/user-attachments/assets/385cb582-8e5e-4da1-9bba-6d50c0845b01" />
+# Galaxy Game
 
-TAMPILAN GAME
-<img width="2878" height="1618" alt="image" src="https://github.com/user-attachments/assets/f7dace89-5ba8-4a72-9996-0912d89d29e4" />
+A small Windows space-game prototype made with Unity and C#. The repository
+contains a playable build alongside selected gameplay scripts.
 
-TAMPILAN LEVEL
-<img width="2880" height="1620" alt="image" src="https://github.com/user-attachments/assets/a76e720f-e656-493c-9071-3df637910d50" />
+## Features
 
+- Smooth two-dimensional ship movement and tilt
+- Collectible stars
+- Moving obstacles and asteroids
+- Multiple scenes with level progression
+- Windows desktop build included in the repository
+
+## Stack
+
+- Unity
+- C#
+- Windows desktop build
+
+## Run locally
+
+On Windows, clone or download the repository and run `GalaxyGame.exe`. Keep the
+executable beside the `GalaxyGame_Data`, `MonoBleedingEdge`, and supporting DLL
+folders.
+
+The repository is a prototype snapshot rather than a complete Unity editor
+project, so the included `Scripts` directory is best used to review selected
+gameplay logic.
+
+## Status
+
+Learning prototype. It demonstrates a compact gameplay loop and is not
+presented as a production release.
+
+## Attribution
+
+Built by [Danish](https://github.com/Unknown2-1). Personal contact details are
+kept private; project discussion can stay on GitHub.
